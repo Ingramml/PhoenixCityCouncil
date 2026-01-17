@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Local config
+.env
+*.local
+
+# Cache
+vote_cache.json
+backlog_progress.json
+
+# Temporary files
+*.tmp
+*.bak
