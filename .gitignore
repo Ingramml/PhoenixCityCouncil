@@ -30,3 +30,8 @@ backlog_progress.json
 # Temporary files
 *.tmp
 *.bak
+
+# Claude
+.claude/
+master-files/
+*.csv
