@@ -35,3 +35,4 @@ backlog_progress.json
 .claude/
 master-files/
 *.csv
+master-files
